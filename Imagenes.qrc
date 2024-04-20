@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Lava/lavaDos.gif</file>
+        <file>Lava/lavaTres.gif</file>
+        <file>Lava/lavaUno.gif</file>
+    </qresource>
+</RCC>
